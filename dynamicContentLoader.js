@@ -42,7 +42,7 @@ const promoImage2 = "./images/promo_image (2).png";
 const promoImage3 = "./images/promo_image (3).png";
 
 //URLS
-const pdfDownloadLink = "https://drive.google.com/uc?export=download&id=1Cds_M21xMTD5AIUeogazMVGbxfBvywOF";
+const pdfDownloadLink = "https://drive.google.com/uc?export=download&id=1fD4jNnqPQdFvUG-S7dabRZjniTqf6_o5";
 
 
 function updatePageContent() {
@@ -89,7 +89,7 @@ function updatePageContent() {
 
     document.getElementById('rules-download-button').innerHTML = `<i class="fas fa-download"></i> ${download_button_text}`;
 
-    //document.getElementById('rules-download-button').href = pdfDownloadLink;
+    document.getElementById('rules-download-button').href = pdfDownloadLink;
     document.getElementById('newsletter-button').innerHTML = `<i class="fas fa-envelope"></i> ${newsletter_button_text}`;
 
     ////URLS

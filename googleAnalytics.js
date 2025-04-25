@@ -2,7 +2,7 @@
 (function() {
   var script = document.createElement('script');
   script.async = true;
-  script.src = 'https://www.googletagmanager.com/gtag/js?id=G-SYVPP6RPJC';
+  script.src = 'https://www.googletagmanager.com/gtag/js?id=G-RYBVHE9Z8G';
   document.head.appendChild(script);
 })();
 
@@ -12,7 +12,7 @@ function gtag(){dataLayer.push(arguments);}
 
 // Configure the tag with debug mode enabled
 gtag('js', new Date());
-gtag('config', 'G-SYVPP6RPJC', { 'debug_mode': true }); // Debug mode enabled
+gtag('config', 'G-RYBVHE9Z8G', { 'debug_mode': true }); // Debug mode enabled
 
 ////button tracking
 
