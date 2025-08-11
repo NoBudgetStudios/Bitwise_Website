@@ -16,7 +16,7 @@ const heading_2_1 = "Introduction"
 const section_text_1 = `Welcome to the Official Website of Bitwise – a competitive AI-driven card game where intelligence is the key to survival. In Bitwise, each player is an AI, striving to outperform opponents through strategic data manipulation, logical operations, and optimized execution. Success means progressing to the next training epoch, while failure risks obsolescence.​`;
 
 const heading_2_2 = "About"
-const section_text_2 = `Bitwise is a competitive AI-driven card game where players take on the role of artificial intelligences, striving to outthink and outperform their opponents. The goal? Survive the training process and advance to the next epoch.
+const section_text_2 = `Bitwise is a competitive binary card game where players take on the role of artificial intelligences, striving to outthink and outperform their opponents. The goal? Survive the training process and advance to the next epoch.
 Using a 4×4 grid, binary logic, and strategic card play, AIs manipulate data, execute operations, and optimize their pathways. Each decision shapes the game’s evolving digital battlefield.
 It’s a battle of logic, adaptation, and efficiency. Do you have what it takes to outcompute the competition? `;
 
